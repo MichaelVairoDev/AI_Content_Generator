@@ -91,7 +91,7 @@ AI_Content_Generator/
 1. **Clonar el repositorio**
 
 ```bash
-git clone <url-del-repositorio>
+git clone https://github.com/MichaelVairoDev/AI_Content_Generator.git
 cd AI_Content_Generator
 ```
 
